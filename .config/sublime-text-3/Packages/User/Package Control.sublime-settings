@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"BeautifyRuby",
+		"Bootstrap 3 Snippets",
+		"Clipboard Manager",
+		"Emmet",
+		"GitGutter",
+		"Package Control",
+		"SCSS",
+		"SCSS Compiler",
+		"SublimeLinter",
+		"SublimeLinter-ruby",
+		"Theme - Soda",
+		"Zeal"
+	]
+}
