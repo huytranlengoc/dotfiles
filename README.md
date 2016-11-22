@@ -10,6 +10,6 @@ Check this guide to install neovim: https://github.com/neovim/neovim/wiki/Instal
 
 # Configuring
 
-  Copy config files you need to folder home
-  You need to follow the instructions to config YouCompleteMe
+  Copy config files you need to folder home  
+  You need to follow [this instructions](https://github.com/Valloric/YouCompleteMe) to config YouCompleteMe
 
