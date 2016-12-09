@@ -56,7 +56,7 @@ set mouse=a
 set nu
 set clipboard=unnamedplus
 set grepprg=grep\ --color=always\ -n\ $*\ /dev/null
-set hlsearch!
+set hlsearch
 set cursorline! cursorcolumn!
 let g:ackprg = 'ag --vimgrep --smart-case'
 

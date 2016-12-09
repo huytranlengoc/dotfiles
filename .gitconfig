@@ -12,6 +12,7 @@
 	dft = difftool
 	dfc = difftool --cached
   up = !git pull --rebase --prune
+  cm = commit -m
   amend = commit -a --amend
   rs = reset
   r1 = reset HEAD^
