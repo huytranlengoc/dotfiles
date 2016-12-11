@@ -24,6 +24,9 @@ Plug 'bronson/vim-trailing-whitespace'
 Plug 'benmills/vimux'
 Plug 'rdnetto/YCM-Generator', { 'branch': 'stable' }
 Plug 'Valloric/YouCompleteMe'
+Plug 'SirVer/ultisnips'
+Plug 'Yggdroot/indentLine'
+Plug 'euclio/vim-markdown-composer'
 call plug#end()
 " execute pathogen#infect()
 
