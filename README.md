@@ -11,6 +11,7 @@
 
 > sudo apt-get install libevent-dev  
 > wget https://github.com/tmux/tmux/releases/download/2.3/tmux-2.3.tar.gz  
+> tar -xzf tmux-2.3.tar.gz  
 > cd tmux-2.3  
 > ./configure  
 > make  
