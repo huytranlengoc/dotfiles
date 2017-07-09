@@ -27,6 +27,7 @@ Plug 'Valloric/YouCompleteMe'
 Plug 'SirVer/ultisnips'
 Plug 'Yggdroot/indentLine'
 Plug 'euclio/vim-markdown-composer'
+Plug 'diepm/vim-rest-console'
 call plug#end()
 " execute pathogen#infect()
 
